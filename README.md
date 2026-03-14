@@ -49,13 +49,13 @@ EXPENSE-TRACKER/
 ### 1 Clone the repository
 
 ```
-git clone https://github.com/anisasunny/SIMPLILEARN.git
+git clone https://github.com/anisasunny/EXPENSE-TRACKER.git
 ```
 
 ### 2 Navigate to the Expense Tracker folder
 
 ```
-cd "Expense Tracker"
+cd EXPENSE-TRACKER
 ```
 
 ### 3 Install required library
