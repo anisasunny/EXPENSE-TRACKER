@@ -112,11 +112,11 @@ Then run all cells.
 
 | Dashboard | Add Expense |
 |-----------|-------------|
-| ![](ExpenseTracker/Screenshots/a1.png) | ![](ExpenseTracker/Screenshots/a3.png) |
+| ![](Screenshots/a1.png) | ![](Screenshots/a3.png) |
 
 | Expense List | Track Budget |
 |--------------|---------|
-| ![](ExpenseTracker/Screenshots/a4.png) | ![](ExpenseTracker/Screenshots/a7.png) |
+| ![](Screenshots/a4.png) | ![](Screenshots/a7.png) |
 
 ## Advantages
 
