@@ -33,15 +33,13 @@ This project demonstrates how Python can be used to build a simple financial man
 ## Project Structure
 
 ```
-SIMPLILEARN/
+EXPENSE-TRACKER/
 │
-└── Expense Tracker/
-    │
-    ├── Personal Expense Tracker.ipynb
-    ├── expenses.csv
-    ├── README.md
-    ├── writeup.md
-    └── Screenshots/
+├── Personal Expense Tracker.ipynb
+├── expenses.csv
+├── writeup.md
+├── README.md
+└── Screenshots/
 ```
 
 ---
